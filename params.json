@@ -1,6 +1,6 @@
 {
   "name": "My-jekyll-site",
   "tagline": "my first jekyll site",
-  "body": "---\r\nlayout: page\r\ntitle: About\r\npermalink: /about/\r\n---\r\n\r\nThis is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)\r\n\r\nYou can find the source code for the Jekyll new theme at:\r\n{% include icon-github.html username=\"jekyll\" %} /\r\n[minima](https://github.com/jekyll/minima)\r\n\r\nYou can find the source code for Jekyll at\r\n{% include icon-github.html username=\"jekyll\" %} /\r\n[jekyll](https://github.com/jekyll/jekyll)",
+  "body": "---\r\nlayout: page\r\ntitle: About\r\npermalink: /about/\r\n---\r\n# My Jekyll page\r\n\r\nThis is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)\r\n\r\nYou can find the source code for the Jekyll new theme at:\r\n{% include icon-github.html username=\"jekyll\" %} /\r\n[minima](https://github.com/jekyll/minima)\r\n\r\nYou can find the source code for Jekyll at\r\n{% include icon-github.html username=\"jekyll\" %} /\r\n[jekyll](https://github.com/jekyll/jekyll)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
